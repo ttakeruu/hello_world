@@ -4,6 +4,4 @@
 
 新しいブランチに書き込みました。
 
-sumiyoshi_takeru
-
-Takeru Sumiyoshi
+住吉 岳
